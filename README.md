@@ -27,6 +27,8 @@ PIN MAX6675
 - PB4 MAXCS: Digunakan untuk pin CS dari sensor suhu MAX6675
 
 <h1>Fitur Utama</h1>
+
+
 - Pengaturan Timer: Menjaga agar tetap mempertahankan suhu target sampai timer habis/selesai
 - Pengaturan Suhu Target: Menghentikan Gas dan Pemantik apabila sudah mencapai suhu target
 - Pengaturan Suhu Minimum: Mengaktifkan Gas dan Pemantik apabila suhu mencapai suhu minimum yang diatur agar suhu tetap terjaga
@@ -35,6 +37,8 @@ PIN MAX6675
   pengaturan yang telah diatur dalam mode menu dan nilai yang tersimpan
 
 <h1>Cara Menggunakan Alat</h1>
+
+
 1 Pastikan Steker power sudah tersambung ke sumber listrik
 2 Nyalakan Alat dengan memutar selector ke posisi ON
 3 Atur Parameter yang tersedia seperti Suhu Target,Suhu Minimum, dan Waktu durasi pada mode menu
