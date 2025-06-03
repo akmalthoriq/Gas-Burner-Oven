@@ -1,4 +1,4 @@
-<h1>GAS BURNER Oven Otomatis Untuk Proses Pengeringan Setelah Proses Powder Coating</h1>
+<h1>Gas Burner Oven Otomatis Untuk Proses Pengeringan Setelah Proses Powder Coating</h1>
 
 Proyek ini adalah untuk tahapan pengeringan part-part setelah melalui proses powder coating.Alat ini merupakan sistem kontrol gas dan pemantik otomatis berdasarkan pembacaan suhu yang sudah disetting dan akan menjaga suhu tersebut selama beberapa menit sesuai dengan waktu yang sudah ditentukan.
 
