@@ -35,11 +35,11 @@ PIN MAX6675
   pengaturan yang telah diatur dalam mode menu dan nilai yang tersimpan
 
 <h1>Cara Menggunakan Alat</h1>
-1. Pastikan Steker power sudah tersambung ke sumber listrik
-2. Nyalakan Alat dengan memutar selector ke posisi ON
-3. Atur Parameter yang tersedia seperti Suhu Target,Suhu Minimum, dan Waktu durasi pada mode menu
-4. Jika parameter sudah di setting sesuai keinginan maka simpan pengaturan dengan cara menekan tombol sett/simpan
-5. Jika sudah tekan tombol hijau untuk memulai sistem,sistem akan berjalan ditandai dengan lampu indikator yang menyala warna merah
-6. Setelah tombol hijau ditekan maka alat akan bekerja dengan menyalakan gas dan pemantik hingga suhu target tercapai, jika sudah tercapai    maka timer akan mulai menghitung mundur serta gas dan pemantik akan mati. jika saat suhu turun sudah mencapai suhu minimum, maka           pemantik dan gas akan menyala kembali hingga tercapai suhu target lagi. Kurang lebih seperti itu siklusnya hingga sistem selesai           ditandai dengan Lampu indikator berwarna hijau menyala.
-7. Jika ingin menghentikan sistem maka tekan tombol berwarna hitam agar sistem berhenti.
-8. Jika saat ditekan tombol hitam sistem tetap tidak berhenti, maka dapat menekan tombol emergency yang berwarna merah agar seluruh alat      mati demi keamanan.
+1 Pastikan Steker power sudah tersambung ke sumber listrik
+2 Nyalakan Alat dengan memutar selector ke posisi ON
+3 Atur Parameter yang tersedia seperti Suhu Target,Suhu Minimum, dan Waktu durasi pada mode menu
+4 Jika parameter sudah di setting sesuai keinginan maka simpan pengaturan dengan cara menekan tombol sett/simpan
+5 Jika sudah tekan tombol hijau untuk memulai sistem,sistem akan berjalan ditandai dengan lampu indikator yang menyala warna merah
+6 Setelah tombol hijau ditekan maka alat akan bekerja dengan menyalakan gas dan pemantik hingga suhu target tercapai, jika sudah tercapai    maka timer akan mulai menghitung mundur serta gas dan pemantik akan mati. jika saat suhu turun sudah mencapai suhu minimum, maka           pemantik dan gas akan menyala kembali hingga tercapai suhu target lagi. Kurang lebih seperti itu siklusnya hingga sistem selesai           ditandai dengan Lampu indikator berwarna hijau menyala.
+7 Jika ingin menghentikan sistem maka tekan tombol berwarna hitam agar sistem berhenti.
+8 Jika saat ditekan tombol hitam sistem tetap tidak berhenti, maka dapat menekan tombol emergency yang berwarna merah agar seluruh alat      mati demi keamanan.
